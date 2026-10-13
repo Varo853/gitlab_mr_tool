@@ -7,6 +7,7 @@ GitLab 多目标分支合并请求批量创建工具
 技术栈：Python 3 + Tkinter（GUI）+ requests（HTTP），无其他第三方依赖。
 
 用法：python3 gitlab_mr_tool.py
+
 """
 
 import json
