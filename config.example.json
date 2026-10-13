@@ -1,0 +1,12 @@
+{
+  "gitlab_url": "https://gitlab.example.com",
+  "project_path": "my-group/my-subgroup/my-project",
+  "token": "在这里填写你的 Personal Access Token",
+  "proxy": "",
+  "verify_ssl": true,
+  "timeout": 30,
+  "branch_limit": 100,
+  "target_branches": ["dev", "qa", "uat", "stg"],
+  "last_assignee": "",
+  "last_checked_targets": []
+}
